@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeboylal&label=Profile%20views&color=0e75b6&style=flat" alt="codeboylal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeboylal" alt="codeboylal" /></a> </p>
-
-
 - 🔭 I’m currently working on **DevSecOps Projects**
 
 - 🌱 I’m currently learning **Go, Rust, Cloud & DevSecOps**
@@ -17,7 +14,6 @@
 - 📫 How to reach me **Lal Budha 47 @ Gmail .Com**
 
 - ⚡ Fun fact **I cook really good!**
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
